@@ -16,7 +16,7 @@ Formado em Sistemas de Informação, pós graduação em Big Data e Machine Lear
 ### Social 🌐
 Aqui você encontra todo o conteúdo que venho criando
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionata/){target="_blank"} [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dionata){target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dionata/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@dionata)
 ###
 
 ### Github Stats 📊
@@ -24,7 +24,7 @@ Aqui você encontra todo o conteúdo que venho criando
   <img src="https://github-readme-stats.vercel.app/api?username=araujoDionata&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=araujoDionata&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
-### 
+
 
 
 
